@@ -13,7 +13,7 @@ response.
 This Python file includes a function named `check_code`. It has five parameters. They are `width` and `height`: to state
 the size of the verification code; `char_length`: to state the number of letters in it; `font_file` and `font_size`: to
 state the settings about font of the letter in verification code. **You should notice that font file and the Python
-files should be in the same directory.
+files should be in the same directory.**
 
 This function returns two parameters. The first is the verification code generated, the second is the answer of it.
 
