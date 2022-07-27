@@ -1,4 +1,4 @@
-# Userful Utils in Django Projects
+# Useful Utils in Django Projects
 
 [Verification Code Generator](/VerificationCodeGenerator/)
 
